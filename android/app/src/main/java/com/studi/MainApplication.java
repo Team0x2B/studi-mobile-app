@@ -1,4 +1,4 @@
-package com.studi_mobile_app;
+package com.studi;
 
 import android.app.Application;
 

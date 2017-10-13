@@ -16,11 +16,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface studi_mobile_appTests : XCTestCase
+@interface StudiTests : XCTestCase
 
 @end
 
-@implementation studi_mobile_appTests
+@implementation StudiTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
